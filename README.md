@@ -4,3 +4,6 @@
 * Deep Neural Network
 * NLP
 * GAN
+------------
+<br></br>
+![pincesslucy's github stats](https://github-readme-stats.vercel.app/api?username=pincesslucy&show_icons=true)
